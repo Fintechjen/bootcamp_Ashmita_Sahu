@@ -1,0 +1,29 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.dylib
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments & secrets
+.env
+.env.*
+.venv/
+env/
+venv/
+*.log
+
+# OS files
+.DS_Store
+
+# Data (keep empty folder via .gitkeep)
+data/**
+!data/.gitkeep
+!data/raw/
+!data/processed/
+data/raw/**
+!data/raw/.gitkeep
+data/processed/**
+!data/processed/.gitkeep
