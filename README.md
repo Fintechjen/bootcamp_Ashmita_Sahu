@@ -1,4 +1,3 @@
-# bootcamp_Ashmita_Sahu
 # Bootcamp Repository
 ## Folder Structure
 - **homework/** → All homework contributions will be submitted here.
