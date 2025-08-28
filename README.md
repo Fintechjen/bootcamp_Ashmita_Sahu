@@ -1,12 +1,3 @@
-# Bootcamp Repository
-## Folder Structure
-- **homework/** → All homework contributions will be submitted here.
-- **project/** → All project contributions will be submitted here.
-- **class_materials/** → Local storage for class materials. Never pushed to
-GitHub.
+# Finance A/B Test with Linear Regression
 
-## Homework Folder Rules
-- Each homework will be in its own subfolder (`homework0`, `homework1`, etc.)
-- Include all required files for grading.
-## Project Folder Rules
-- Keep project files organized and clearly named.
+This project evaluates whether a redesigned financial education module causes an increase in users’ savings behavior compared to the current module. We will run an A/B test (control vs treatment) and estimate the treatment effect with linear regression while controlling for baseline activity and demographics. The primary stakeholder is the product team improving engagement and retention; end users are app customers who benefit from clearer guidance and nudges. The main outputs are a causal effect estimate (with CIs), simple predictive checks, and an implementation decision recommendation.

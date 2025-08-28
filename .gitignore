@@ -15,3 +15,6 @@ __pycache__/
 
 # Virtual environment
 bootcamp_env/
+.ipynb_checkpoints/
+.DS_Store
+bootcamp_env/
